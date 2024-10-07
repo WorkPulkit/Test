@@ -16,5 +16,4 @@ function clickButton(){
 function newFeat(){
     console.log("This is a new feature");
 
-
 }
